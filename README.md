@@ -36,5 +36,5 @@ Users can upload an image, and the system will return detailed attributes such a
 
 ## 🎥 Demo
 [Watch the demo video] https://github.com/user-attachments/assets/d7bca4c9-787f-4208-a9de-8cb3158cda8a
-(Human Attrubute detection.mp4)
+
 
